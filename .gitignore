@@ -1,0 +1,4 @@
+*.sw[po]
+*report.txt
+.DS_Store
+.Trashes
